@@ -1,0 +1,40 @@
+
+@font-face {
+	font-family: 'Helios';
+	src: local('Helios Regular'), local('Helios-Regular'),
+	url('../fonts/heliosextc.woff2') format('woff2'),
+	url('../fonts/heliosextc.woff') format('woff'),
+	url('../fonts/heliosextc.otf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Helios';
+	src: local('Helios Bold'), local('Helios-Bold'),
+	url('../fonts/heliosextboldc.woff2') format('woff2'),
+	url('../fonts/heliosextboldc.woff') format('woff'),
+	url('../fonts/heliosextboldc.ttf') format('truetype');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Helios';
+	src: local('Helios Black'), local('Helios-Black'),
+	url('../fonts/heliosextblackc.woff2') format('woff2'),
+	url('../fonts/heliosextblackc.woff') format('woff'),
+	url('../fonts/heliosextblackc.otf') format('truetype');
+	font-weight: 900;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'HeliosC';
+	src: local('Helios Regular'), local('Helios-Regular'),
+	url('../fonts/HeliosC.woff2') format('woff2'),
+	url('../fonts/HeliosC.woff') format('woff'),
+	url('../fonts/HeliosC.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
