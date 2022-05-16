@@ -353,6 +353,9 @@ form {
 	white-space: nowrap;
 	color: #010A15;
 }
+.nav-catalog li:not(.active) a:hover {
+	color: #be3039;
+}
 .nav-catalog .active a {
 	font-size: 30px;
 	line-height: 36px;
