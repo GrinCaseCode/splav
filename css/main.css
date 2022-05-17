@@ -87,7 +87,7 @@ form {
 	transition: all 0.3s;
 }
 .header.fixed {
-	    background-color: #010A15;
+	background-color: #010A15;
 }
 .header-top {
 	padding: 20px 0;
@@ -190,7 +190,7 @@ form {
 	position: absolute;
 	top: 20px;
 	right: 0;
-	content: "|";
+	content: "|"; 
 	font-size: 18px;
 	line-height: 21px;
 	color: #BE0339;
@@ -199,11 +199,11 @@ form {
 	right: auto;
 	left: 0;
 }
-
 .billbord {
 	padding-top: 203px;
 	min-height: 1090px;
 	color: #fff;
+	background-color: #010a15;
 	background-image: url(../img/bg_billbord.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
@@ -760,11 +760,11 @@ form {
 }
 .footer__bottom {
 	padding: 15px 0;
-font-size: 14px;
-line-height: 21px; 	
-color: rgba(255, 255, 255, 0.5);
+	font-size: 14px;
+	line-height: 21px; 	
+	color: rgba(255, 255, 255, 0.5);
 	margin-top: 35px;
-border: 1px solid rgba(255, 255, 255, 0.1);
+	border: 1px solid rgba(255, 255, 255, 0.1);
 }
 .footer__bottom a {
 	color: #999999;
