@@ -192,7 +192,7 @@ form {
 	right: 0;
 	content: "|"; 
 	font-size: 18px;
-	line-height: 21px;
+	line-height: 21px; 
 	color: #BE0339;
 }
 .menu li:first-child a::before {
