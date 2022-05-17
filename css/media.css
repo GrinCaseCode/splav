@@ -28,9 +28,9 @@
         margin-bottom: 60px;
     }
     .image-billbord img {
-       max-width: 590px;
-   }
-   .billbord {
+     max-width: 590px;
+ }
+ .billbord {
     padding-top: 190px;
     min-height: 1020px;
 }
@@ -55,7 +55,7 @@
     line-height: 33px;
 }
 .nav-catalog li {
-   margin-left: 80px;
+ margin-left: 80px;
 }
 .nav-catalog .active a {
     font-size: 27px;
@@ -65,13 +65,13 @@
     right: -30px;
 }
 .item-catalog3_5 .item-catalog__image {
-   right: 20px;
+ right: 20px;
 }
 .image-advantages img {
-   max-width: 600px;
+ max-width: 600px;
 }
 .menu li:first-child a::before, .menu li a::after {
-   top: 18px;
+ top: 18px;
 }
 }
 @media only screen and (max-width : 1450px) {
@@ -84,9 +84,9 @@
         line-height: 19px;
     }
     .icon-phone {
-       margin-right: 15px;
-   }
-   .menu li a {
+     margin-right: 15px;
+ }
+ .menu li a {
     padding: 15px 0;
     font-size: 15px;
 }
@@ -112,7 +112,7 @@
     transform: scale(0.7);
 }
 .item-catalog {
-   height: 535px;
+ height: 535px;
 }
 .nav-catalog {
     margin-left: calc((100% - 1140px)/2);
@@ -134,19 +134,19 @@
     line-height: 25px;
 }
 .advantages {
-   padding-bottom: 90px;
+ padding-bottom: 90px;
 }
 .advantages .title-big {
-   margin-bottom: 70px;
+ margin-bottom: 70px;
 }
 .footer__bottom {
-   font-size: 13px;
+ font-size: 13px;
 }
 .create {
-   display: flex;
+ display: flex;
 }
 .menu li:first-child a::before, .menu li a::after {
-   top: 16px;
+ top: 16px;
 }
 .billbord .title-big {
     margin-top: 80px;
@@ -155,13 +155,13 @@
 /* Large Devices, Wide Screens */
 @media only screen and (max-width : 1200px) {
     .header-wrap .contact-item_location {
-       display: none;
-   }
-   .contact-item {
-       font-size: 13px;
-       margin: 0 auto;
-   }
-   .title-big {
+     display: none;
+ }
+ .contact-item {
+     font-size: 13px;
+     margin: 0 auto;
+ }
+ .title-big {
     font-size: 30px;
     line-height: 45px;
 }
@@ -260,16 +260,16 @@
     .header-wrap .social-btn,
     .header .menu-wrap,
     .header-wrap .contact-item {
-       display: none;
-   }
-   .billbord .title-big {
-       margin-top: 0;
-   }
-   .billbord__left {
-       padding-right: 200px;
-       min-height: 350px;
-   }
-   .image-billbord img {
+     display: none;
+ }
+ .billbord .title-big {
+     margin-top: 0;
+ }
+ .billbord__left {
+     padding-right: 200px;
+     min-height: 350px;
+ }
+ .image-billbord img {
     max-width: 371px;
 }
 .billbord .descr-title {
@@ -279,15 +279,15 @@
     padding-top: 130px;
 }
 .billbord-bottom {
-   padding-top: 25px;
-   padding-bottom: 60px;
+ padding-top: 25px;
+ padding-bottom: 60px;
 }
 .container {
-   max-width: 100%;
-   padding: 0 40px;
+ max-width: 100%;
+ padding: 0 40px;
 }
 .slider-about .item-about {
-   width: 50vw;
+ width: 50vw;
 }
 .slider-about {
   margin-right: -40px;
@@ -627,6 +627,10 @@
     }
     .menu li:nth-child(4) a::before {
         display: none;
+    }
+    .item-catalog2_4 .item-catalog__image {
+        bottom: 155px;
+        transform: scale(0.56);
     }
 }
 
